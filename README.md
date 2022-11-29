@@ -3,8 +3,11 @@
  The task is to build a weather dashboard that will run in the browser and feature dynamically updated HTML, CSS, and thirdparty API.The client should be able to search the current weather forecast based on choice of location.
 
 ## Feautures:
+
 -Handlebars 
+
 -Local storage
+
 -API
 
 
